@@ -1,6 +1,6 @@
 # google maps javascript api v3
 
->### This document lists javascript examples of using the api, sometimes in relation with a specific stackoverflow question.
+> ### This document lists javascript examples of using the api, sometimes in relation with a specific stackoverflow question.
 > All my fiddles can be found on my [dashboard](http://jsfiddle.net/user/upsidown/fiddles/)
 
 ## Map
@@ -60,23 +60,23 @@
 * [Maps API v3 MarkerClusterer](http://jsfiddle.net/upsidown/2qdvjc4j/)
   * Clustering a good amount of markers on a map
 
-## InfoWindow
+## Infowindow
 
-* [Maps API v3 infoWindow scroll](http://jsfiddle.net/upsidown/VFyYb/)
-  * Add a nice scrolling to `infoWindow`
+* [Maps API v3 Infowindow scroll](http://jsfiddle.net/upsidown/VFyYb/)
+  * Add a nice scrolling to Infowindow
 
-* [Maps API v3 Twitter in infoWindow](http://jsfiddle.net/upsidown/eh4Kp/)
-  * Embed a tweet in an infoWindow
+* [Maps API v3 Twitter in Infowindow](http://jsfiddle.net/upsidown/eh4Kp/)
+  * Embed a tweet in an Infowindow
 
-* [Maps API v3 Marker with infoWindow in Street View panorama](https://jsfiddle.net/upsidown/9h21jzc7/)
-  * Opens an infoWindow on a Street View panorama marker
+* [Maps API v3 Marker with Infowindow in Street View panorama](https://jsfiddle.net/upsidown/9h21jzc7/)
+  * Opens an Infowindow on a Street View panorama marker
   * [https://stackoverflow.com/questions/48839938](https://stackoverflow.com/questions/48839938)
 
-* [Maps API v3 Multiple markers with single infowindow](http://jsfiddle.net/upsidown/4k4d5vtL/)
-  * Draw multiple markers that share a common infowindow object
+* [Maps API v3 Multiple markers with single Infowindow](http://jsfiddle.net/upsidown/4k4d5vtL/)
+  * Draw multiple markers that share a common Infowindow object
 
-* [Maps API v3 Multiple markers with single infowindow (Closure version)](http://jsfiddle.net/upsidown/peor6rqk/)
-  * Draw multiple markers that share a common infowindow object (Closure version)
+* [Maps API v3 Multiple markers with single Infowindow (Closure version)](http://jsfiddle.net/upsidown/peor6rqk/)
+  * Draw multiple markers that share a common Infowindow object (Closure version)
   * Google Documentation: [Using closures in event listeners](https://developers.google.com/maps/documentation/javascript/examples/event-closure)
 
 ## Polyline
