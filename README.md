@@ -1,6 +1,6 @@
 # google maps javascript api v3
 
-> ### This document lists javascript examples of using the api, sometimes in relation with a specific stackoverflow question.
+> ### This document lists Google Maps API v3 javascript examples, sometimes in relation with a specific stackoverflow question.
 > All my fiddles can be found on my [dashboard](http://jsfiddle.net/user/upsidown/fiddles/)
 
 ## Map
