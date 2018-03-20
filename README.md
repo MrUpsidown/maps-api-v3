@@ -11,10 +11,8 @@
 The very base map
 
 * [Maps API v3 Styled Map Types](http://jsfiddle.net/upsidown/Lt2Ey/)
-
-Create a Styled Map and the corresponding `MapTypeId`
-
-A great tool for generating styled maps: [The Styled Map Wizard](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html)
+** Create a Styled Map and the corresponding `MapTypeId`
+** A great tool for generating styled maps: [The Styled Map Wizard](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html)
 
 * [Maps API v3 Map resize](http://jsfiddle.net/upsidown/K3P2s/)
 Trigger a map resize when the map canvas is displayed
