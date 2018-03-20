@@ -15,7 +15,7 @@ The very base map
 - [x] A great tool for generating styled maps: [The Styled Map Wizard](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html)
 
 * [Maps API v3 Map resize](http://jsfiddle.net/upsidown/K3P2s/)
-Trigger a map resize when the map canvas is displayed
+  - Trigger a map resize when the map canvas is displayed
 
 * [Maps API v3 Bootstrap modal & map resize](http://jsfiddle.net/upsidown/fag9n52y/)
 Trigger a map resize when map is shown in a Bootstrap modal
