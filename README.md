@@ -6,7 +6,7 @@
 ## Map
 
 * [Maps API v3 base map](http://jsfiddle.net/upsidown/Lw6tF/)
-The very base map
+  * The very base map
 
 * [Maps API v3 Styled Map Types](http://jsfiddle.net/upsidown/Lt2Ey/)
   * Create a Styled Map and the corresponding `MapTypeId`
