@@ -196,6 +196,10 @@
 
 * [Maps API v3 Places Autocomplete Predictions simple](http://jsfiddle.net/upsidown/dmwv1t4e/)
   * Same as above but not as much style and a single field.
+  
+* [Maps API v3 Places Autocomplete Predicionts with custom addresses](http://jsfiddle.net/upsidown/q2pn43ks/)
+  * Same as above but with inserting custom addresses on top of the returned predictions
+  * [https://stackoverflow.com/q/49671434/1238965](https://stackoverflow.com/q/49671434/1238965)
 
 ## Styling the map
 
