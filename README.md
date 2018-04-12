@@ -111,6 +111,9 @@
 
 * [Maps API v3 Data layer remove feature](http://jsfiddle.net/upsidown/nwvn2nhs/)
   * Load geojson data and manipulate the features
+  
+* [Maps API v3 Data layer manipulate single feature](http://jsfiddle.net/upsidown/15tf4d03/)
+  * Manipulate one feature in a feature collection (show/hide) independently from other features
 
 ## Custom controls
 
