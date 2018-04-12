@@ -167,6 +167,9 @@
 
 * [Maps API v3 Marker in Street View](http://jsfiddle.net/upsidown/7Gmg9/)
   * Place a Marker on a Street View and toggle between map and Street View
+  
+* [Maps API v3 Street View coverage layer](http://jsfiddle.net/upsidown/15tf4d03/)
+  * Shows Street View coverage on a map, like on Google Maps when clicking on the pegman
 
 ## Places Library
 
