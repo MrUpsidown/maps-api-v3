@@ -173,6 +173,11 @@
   
 * [Maps API v3 Street View coverage layer](http://jsfiddle.net/upsidown/15tf4d03/)
   * Shows Street View coverage on a map, like on Google Maps when clicking on the pegman
+  
+## Elevation Service
+
+* [Maps API v3 Elevation Service](https://jsfiddle.net/upsidown/jhbkbxpw/)
+  * Simple example use of the Elevation Service
 
 ## Places Library
 
