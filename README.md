@@ -162,6 +162,10 @@
 * [Maps API v3 Draggable directions with alternate routes.](http://jsfiddle.net/upsidown/9jb2nvt8/)
   * Displays directions alternatives with the ability to redraw routes when directions changed.
   * [http://stackoverflow.com/questions/41999828](http://stackoverflow.com/questions/41999828)
+  
+* [Maps API v3 Directions with InfoWindow.](http://jsfiddle.net/upsidown/ypfaekch/)
+  * Bind an InfoWindow to a Directions route by manually rendering the route
+
 
 ## Street View Service
 
