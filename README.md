@@ -166,8 +166,8 @@
 * [Maps API v3 Directions with InfoWindow](http://jsfiddle.net/upsidown/anwkL39f/)
   * Bind an InfoWindow to a Directions route by manually rendering the route
   
-* [Maps API v3 Directions with InfoWindow](http://jsfiddle.net/upsidown/ypfaekch/)
-  * Bind an InfoWindow to a Directions route by manually rendering the route and displaying each step information
+* [Maps API v3 Directions with InfoWindow with directions instructions](http://jsfiddle.net/upsidown/ypfaekch/)
+  * Bind an InfoWindow to a Directions route by manually rendering the route and displaying each step instructions
 
 
 ## Street View Service
