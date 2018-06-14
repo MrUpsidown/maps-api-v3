@@ -169,6 +169,9 @@
 * [Maps API v3 Directions with InfoWindow with directions instructions](http://jsfiddle.net/upsidown/ypfaekch/)
   * Bind an InfoWindow to a Directions route by manually rendering the route and displaying each step instructions
 
+* [Maps API v3 Directions with InfoWindow with distance from start](http://jsfiddle.net/upsidown/ucny147m/)
+  * Bind an InfoWindow to a Directions route by manually rendering the route and displaying distance from start
+  * Warning: this uses the **overview Polyline** which is less accurate than rendering each step Poyline
 
 ## Street View Service
 
