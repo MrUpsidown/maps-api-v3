@@ -235,6 +235,10 @@
   * Toggle different feature types with checkboxes
   * [http://stackoverflow.com/questions/28081912](http://stackoverflow.com/questions/28081912)
 
+* [Maps API v3 Change styles](http://jsfiddle.net/upsidown/Lu56chq8/)
+  * Change different feature types and elements with checkboxes
+  * [https://stackoverflow.com/questions/50859362/](https://stackoverflow.com/questions/50859362/)
+
 * [Maps API v3 Rounded styled map above base map & sync](http://jsfiddle.net/upsidown/ooq7wcjc/)
   * Hack to display a styled map of a rounded shape above a standard map
   * [http://stackoverflow.com/questions/28413474](http://stackoverflow.com/questions/28413474)
