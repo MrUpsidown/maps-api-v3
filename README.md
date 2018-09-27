@@ -107,6 +107,10 @@
   * Listen to editable Polygon events (set_at, insert_at, remove_at)
   * [http://stackoverflow.com/questions/29176269](http://stackoverflow.com/questions/29176269)
 
+* [Maps API v3 allow to edit rectangle and expand further left or right](http://jsfiddle.net/upsidown/Lrxt0wu4/)
+  * Rectangles cannot be edited further left/right of 50% of the remaining distance to 360°
+  * [https://stackoverflow.com/a/52517844/1238965](https://stackoverflow.com/a/52517844/1238965)
+  
 ## Data Layer
 
 * [Maps API v3 Data layer remove feature](http://jsfiddle.net/upsidown/nwvn2nhs/)
