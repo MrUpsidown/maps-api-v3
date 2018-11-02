@@ -145,6 +145,10 @@
 
 * [Maps API v3 Directions simple](http://jsfiddle.net/upsidown/5AwhM/)
   * Simple use of the Directions service
+  
+* [Maps API v3 Directions from/to buttons](http://jsfiddle.net/upsidown/53m68qzc/)
+  * Get directions from InfoWindow buttons
+  * [https://stackoverflow.com/q/53110741/1238965](https://stackoverflow.com/q/53110741/1238965)
 
 * [Maps API v3 Directions Waypoints](http://jsfiddle.net/upsidown/J8aCH/)
   * Directions service with waypoints and custom markers
