@@ -25,6 +25,10 @@
 
 * [Maps API v3 Center map from user input](http://jsfiddle.net/upsidown/gefg183r/)
   * Center map on user input coordinates with validation
+  
+* [Maps API v3 Custom scale control](http://jsfiddle.net/upsidown/3jnxk71o/)
+  * Create a custom scale control
+  * [https://stackoverflow.com/q/53159975/1238965](https://stackoverflow.com/q/53159975/1238965)
 
 ## Marker
 
