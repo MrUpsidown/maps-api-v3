@@ -297,3 +297,7 @@ Yes, I need this a lot...
 * While this link may answer the question, it is better to include the essential parts of the answer here and provide the link for reference. Link-only answers can become invalid if the linked page changes.
 
 * `Please provide a [Minimal, Complete and Verifiable example](http://stackoverflow.com/help/mcve) that demonstrates the issue.`
+
+> ### Google Maps API key for JSFiddle.net (not mine)
+
+* AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk
