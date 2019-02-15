@@ -298,6 +298,6 @@ Yes, I need this a lot...
 
 * `Please provide a [Minimal, Complete and Verifiable example](http://stackoverflow.com/help/mcve) that demonstrates the issue.`
 
-> ### Google Maps API key for JSFiddle.net (not mine)
+> ### Google Maps API key for JSFiddle.net and Stackoverflow (provided by Google)
 
 * AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk
