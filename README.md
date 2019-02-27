@@ -128,6 +128,10 @@
 * [Maps API v3 Custom Control and geolocation](http://jsfiddle.net/upsidown/19hjuh6s/)
   * Add a custom control to center map on user location.
   * [http://stackoverflow.com/questions/28998743](http://stackoverflow.com/questions/28998743)
+  
+* [Maps API v3 Custom Zoom control](http://jsfiddle.net/upsidown/rh8endts/)
+  * Add a custom zoom control
+  * [https://stackoverflow.com/q/54901509/1238965](https://stackoverflow.com/q/54901509/1238965)
 
 ## Geocoder Service
 
