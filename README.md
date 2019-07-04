@@ -30,6 +30,12 @@
   * Create a custom scale control
   * [https://stackoverflow.com/q/53159975/1238965](https://stackoverflow.com/q/53159975/1238965)
 
+## Events
+
+* [Maps API v3 Handle single and double click events](http://jsfiddle.net/upsidown/a657hvjc/)
+  * How to handle single and double click events simultanously
+  * [https://stackoverflow.com/questions/56888891](https://stackoverflow.com/questions/56888891)
+  
 ## Marker
 
 * [Maps API v3 Add and remove markers](http://jsfiddle.net/upsidown/b5r4nm3s/)
