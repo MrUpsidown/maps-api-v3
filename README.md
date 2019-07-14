@@ -167,6 +167,10 @@
 * [Maps API v3 Directions Waypoints](http://jsfiddle.net/upsidown/J8aCH/)
   * Directions service with waypoints and custom markers
 
+* [Maps API v3 Directions with clickable Waypoints](http://jsfiddle.net/upsidown/g67mrsqx/)
+  * Directions service with waypoints and custom clickable markers.
+  * [https://stackoverflow.com/questions/57023259](https://stackoverflow.com/questions/57023259)
+  
 * [Maps API v3 Directions routes and steps](http://jsfiddle.net/upsidown/3uLqrd7c/)
   * Get all routes (alternates) steps and show them on the map
   * [http://stackoverflow.com/questions/27700844](http://stackoverflow.com/questions/27700844)
