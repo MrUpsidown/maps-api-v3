@@ -315,3 +315,7 @@ Yes, I need this a lot...
 > ### Google Maps API key for JSFiddle.net and Stackoverflow (provided by Google)
 
 * AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk
+
+> Script
+
+* `https://maps.googleapis.com/maps/api/js?key=AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk`
