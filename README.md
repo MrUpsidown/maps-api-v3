@@ -311,6 +311,11 @@
 * [Google Visualization API simple chart](http://jsfiddle.net/upsidown/xyqF7/)
   * Draw a simple chart with the Visualization API
 
+> ### Bootstrap 4
+
+* [Bootstrap 4 base template](https://jsfiddle.net/upsidown/bs5emk4v/)
+  * Fork to test
+
 > ### stackoverflow templates
 
 Yes, I need this a lot...
