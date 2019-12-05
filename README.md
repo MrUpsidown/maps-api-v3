@@ -22,6 +22,9 @@
 * [Maps API v3 4 quarters of the projection](http://jsfiddle.net/upsidown/urtuoLsp/)
   * Display all 4 quarters of the map projection and use a formula to find the real north and south edges of the projection
   * [http://stackoverflow.com/questions/27107440](http://stackoverflow.com/questions/27107440)
+
+* [Maps API v3 Marker in each corner](http://jsfiddle.net/upsidown/jg3sf7tb/)
+  * Place a marker in each of the map corners
   
 * [Maps API v3 map quarters, find where marker lies](http://jsfiddle.net/upsidown/dh425tus/)
   * Divide the map viewport in 4 quarters and check in which quarter a marker lies
