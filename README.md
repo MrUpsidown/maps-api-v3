@@ -33,6 +33,9 @@
 * [Maps API v3 Custom scale control](http://jsfiddle.net/upsidown/3jnxk71o/)
   * Create a custom scale control
   * [https://stackoverflow.com/q/53159975/1238965](https://stackoverflow.com/q/53159975/1238965)
+  
+* [Maps API v3 Night Overlay](http://jsfiddle.net/upsidown/s6x8kvgq/)
+  * Adds a day/night overlay using the [Nite Overlay library](https://github.com/rossengeorgiev/nite-overlay)
 
 ## Events
 
