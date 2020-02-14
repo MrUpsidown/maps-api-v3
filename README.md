@@ -79,6 +79,9 @@
 
 * [Maps API v3 MarkerClusterer](http://jsfiddle.net/upsidown/2qdvjc4j/)
   * Clustering a good amount of markers on a map
+  
+* [Maps API v3 HTML Marker (Custom Overlay)](https://jsfiddle.net/upsidown/4Lf7r5m1/)
+  * Create a custom HTML Marker by implementing OverlayView class
 
 ## Infowindow
 
