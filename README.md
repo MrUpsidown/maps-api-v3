@@ -317,7 +317,7 @@
 
 > ### ReactJS
 
-* [ReactJS Google Maps code sandbox](https://codesandbox.io/s/vibrant-leakey-qkl06)
+* [ReactJS Google Maps code sandbox](https://codesandbox.io/s/reactjs-google-maps-example-qkl06)
 
 > ### Google Visualization API
 
