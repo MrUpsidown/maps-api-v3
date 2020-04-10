@@ -319,6 +319,11 @@
 
 * [ReactJS Google Maps code sandbox](https://codesandbox.io/s/reactjs-google-maps-example-qkl06)
 
+> ### Vue
+
+* [Vue 2 Google Maps boilerplate](https://jsfiddle.net/upsidown/Lafcy16b/)
+  * Uses `vue2-google-maps` package
+
 > ### Google Visualization API
 
 * [Google Visualization API simple chart](http://jsfiddle.net/upsidown/xyqF7/)
