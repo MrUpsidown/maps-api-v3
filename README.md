@@ -323,6 +323,9 @@
 
 * [Vue 2 Google Maps boilerplate](https://jsfiddle.net/upsidown/Lafcy16b/)
   * Uses `vue2-google-maps` package
+  
+* [Vue JS - Manually Loading Google Maps API](https://jsfiddle.net/upsidown/w8q1r34L/)
+  * Uses no package - manual loading
 
 > ### Google Visualization API
 
