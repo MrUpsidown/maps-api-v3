@@ -326,6 +326,9 @@
   
 * [Vue JS - Manually Loading Google Maps API](https://jsfiddle.net/upsidown/w8q1r34L/)
   * Uses no package - manual loading
+  
+* [Vue JS - Dynamically add Autocomplete fields](https://codesandbox.io/s/modest-fog-1efqy?file=/src/App.vue)
+  * Dynamically add Autocomplete input fields and track their value
 
 > ### Google Visualization API
 
