@@ -319,6 +319,8 @@
 
 * [ReactJS Google Maps code sandbox](https://codesandbox.io/s/reactjs-google-maps-example-qkl06)
 
+* [ReactJS Google Maps with geolocation using usePosition](https://codesandbox.io/s/reactjs-google-maps-example-trogl?file=/src/App.js)
+
 > ### Vue
 
 * [Vue 2 Google Maps boilerplate](https://jsfiddle.net/upsidown/Lafcy16b/)
