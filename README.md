@@ -231,6 +231,11 @@
 
 * [Maps API v3 Elevation Service](https://jsfiddle.net/upsidown/jhbkbxpw/)
   * Simple example use of the Elevation Service
+  
+## Geometry Library
+
+* [Maps API v3 get heading between 2 points](http://jsfiddle.net/upsidown/u8gv0bqt/)
+  * Calculate the heading between 2 coordinates using the Geometry library
 
 ## Places Library
 
