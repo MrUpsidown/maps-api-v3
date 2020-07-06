@@ -133,6 +133,9 @@
 * [Maps API v3 allow to edit rectangle and expand further left or right](http://jsfiddle.net/upsidown/Lrxt0wu4/)
   * Rectangles cannot be edited further left/right of 50% of the remaining distance to 360°
   * [https://stackoverflow.com/a/52517844/1238965](https://stackoverflow.com/a/52517844/1238965)
+
+* [Maps API v3 display Polygon bounding box](http://jsfiddle.net/upsidown/jsck7dxp/)
+  * Draw a Polygon, get its paths and extend a LatLngBounds object to define a bounding box
   
 ## Data Layer
 
