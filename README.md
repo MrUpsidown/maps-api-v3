@@ -325,9 +325,11 @@
 
 > ### ReactJS
 
-* [ReactJS Google Maps code sandbox](https://codesandbox.io/s/reactjs-google-maps-example-qkl06)
+* [ReactJS Google Maps code sandbox](https://codesandbox.io/s/reactjs-google-maps-example-dhcii)
 
-* [ReactJS Google Maps with geolocation using use-position](https://codesandbox.io/s/reactjs-google-maps-example-trogl?file=/src/App.js)
+* [ReactJS Google Maps with Drawing Manager component](https://codesandbox.io/s/react-google-mapsapi-with-drawing-manager-4b8rw)
+
+* [ReactJS Google Maps with geolocation using use-position](https://codesandbox.io/s/reactjs-google-maps-example-trogl)
   * React hook for following a browser geolocation: npm [use-position](https://www.npmjs.com/package/use-position)
 
 > ### Vue
