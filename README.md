@@ -334,6 +334,8 @@
   
 * [ReactJS Google Maps Autocomplete](https://codesandbox.io/s/react-js-react-google-places-autocomplete-o1e6f)
   * With https://www.npmjs.com/package/react-google-places-autocomplete
+  
+* [ReactJS Google Maps API Places Autocomplete Widget](https://codesandbox.io/s/google-maps-api-autocomplete-5s8px)
 
 > ### Vue
 
