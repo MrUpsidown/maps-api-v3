@@ -331,6 +331,9 @@
 
 * [ReactJS Google Maps with geolocation using use-position](https://codesandbox.io/s/reactjs-google-maps-example-trogl)
   * React hook for following a browser geolocation: npm [use-position](https://www.npmjs.com/package/use-position)
+  
+* [ReactJS Google Maps Autocomplete](https://codesandbox.io/s/react-js-react-google-places-autocomplete-o1e6f)
+  * With https://www.npmjs.com/package/react-google-places-autocomplete
 
 > ### Vue
 
