@@ -325,7 +325,7 @@
 
 > ### ReactJS
 
-* [ReactJS Google Maps code sandbox](https://codesandbox.io/s/reactjs-google-maps-example-dhcii)
+* [ReactJS Google Maps code sandbox](https://codesandbox.io/s/react-google-mapsapi-simple-example-dhcii)
 
 * [ReactJS Google Maps with Drawing Manager component](https://codesandbox.io/s/react-google-mapsapi-with-drawing-manager-4b8rw)
 
