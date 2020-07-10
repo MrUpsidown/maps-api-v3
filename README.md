@@ -218,6 +218,9 @@
   * Bind an InfoWindow to a Directions route by manually rendering the route and displaying distance from start
   * Warning: this uses the **overview Polyline** which is less accurate than rendering each step Poyline
   * Credits for distance calculation go to https://stackoverflow.com/a/9491592/1238965
+  
+* [Maps API v3 Directions with custom Polyline and Markers every 10 km](http://jsfiddle.net/upsidown/hjwso5p7/)
+  * Draw a Polyline from Directions overview path and place a Marker along the route every 10 km
 
 ## Street View Service
 
