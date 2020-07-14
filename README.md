@@ -340,6 +340,8 @@
   
 * [ReactJS Google Maps API Places Autocomplete Widget](https://codesandbox.io/s/google-maps-api-autocomplete-5s8px)
 
+* [ReactJS Google Maps API Directions Service update values with useEffect / useState](https://codesandbox.io/s/react-google-mapsapi-directions-service-m7qif)
+
 > ### Vue
 
 * [Vue 2 Google Maps boilerplate](https://jsfiddle.net/upsidown/Lafcy16b/)
