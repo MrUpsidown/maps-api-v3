@@ -254,6 +254,9 @@
 
 * [Maps API v3 Places Autocomplete](http://jsfiddle.net/upsidown/GVdK6/)
   * Simple Places API autocomplete field
+  
+* [Maps API v3 Places Autocomplete set restrictions](http://jsfiddle.net/upsidown/gLmh6y7r/)
+  * Set country component restrictions on the fly
 
 * [Maps API v3 Places Search Box](http://jsfiddle.net/upsidown/2NhsE/)
   * Use the searchBox class to perform a place serach and display results as markers
