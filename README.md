@@ -333,6 +333,8 @@
 
 * [ReactJS Google Maps code sandbox](https://codesandbox.io/s/react-google-mapsapi-simple-example-dhcii)
 
+* [ReactJS Google Maps with draggable Marker](https://codesandbox.io/s/react-google-mapsapi-simple-draggable-marker-3n8kp)
+
 * [ReactJS Google Maps with Drawing Manager component](https://codesandbox.io/s/react-google-mapsapi-with-drawing-manager-4b8rw)
 
 * [ReactJS Google Maps with geolocation using use-position](https://codesandbox.io/s/reactjs-google-maps-example-trogl)
