@@ -242,6 +242,9 @@
 
 * [Maps API v3 get heading between 2 points](http://jsfiddle.net/upsidown/u8gv0bqt/)
   * Calculate the heading between 2 coordinates using the Geometry library
+  
+* [Maps API v3 distance via API and Haversine formula](http://jsfiddle.net/upsidown/p6xcL4k9/)
+  * Explicitly shows differences in calculation of a distance via the API geometry spherical methods and local Haversine calculation
 
 ## Places Library
 
