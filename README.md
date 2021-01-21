@@ -222,6 +222,9 @@
 * [Maps API v3 Directions with custom Polyline and Markers every 10 km](http://jsfiddle.net/upsidown/hjwso5p7/)
   * Draw a Polyline from Directions overview path and place a Marker along the route every 10 km
 
+* [Maps API v3 Directions legs and steps duration](http://jsfiddle.net/upsidown/g4xs910v/)
+  * Legs come with "duration in traffic" but steps don't. This illustrates the differences between the 2 depending on what traffic model is used.
+
 ## Street View Service
 
 * [Maps API v3 Map & StreetView](http://jsfiddle.net/upsidown/fXu5d/)
